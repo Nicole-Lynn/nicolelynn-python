@@ -11,5 +11,5 @@ The problem sets assigned in the course cover the range of topics including:
 - Week 5: [Unit Tests](week5/)
 - Week 6: [File I/O](week6/)
 - Week 7: [Regular Expressions](week7/)
-- Week 8: [Object Oriented Programming](week8/)
+- Week 8: [Object Oriented Programming](week8)
 
