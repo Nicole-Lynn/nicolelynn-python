@@ -1,10 +1,8 @@
 # Introduction to Programming with Python
-This repository contains my solutions to the problem sets assigned in the online course, CS50's Introduction to Programming with Python offered on edX. 
-Each problem set covers various concepts and topics in Python. 
-
+This repository contains my solutions to the problem sets assigned in the online course, CS50's Introduction to Programming with Python offered on edX.  
 
 ## Introduction
-Each problem set comprises a series of programming assignments that provided me with the opportunity to reinforce and showcase my comprehension of various Python concepts and techniques.
+Each problem set covers various concepts and topics in Python and comprises a series of programming assignments that provided me with the opportunity to reinforce and showcase my comprehension of the various concepts and techniques.
 
 ## Course Information
 CS50's Introduction to Programming with Python is an online course that covers fundamental concepts of computer programming using the Python programming language. For more information about the course, please refer to the [CS50 website](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python).
