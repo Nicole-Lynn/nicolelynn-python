@@ -19,5 +19,5 @@ The problem sets are based on the topics covered each week. Below is the list of
 - Week 7: [Regular Expressions](week7)
 - Week 8: [Object Oriented Programming](week8)
 
-## License
+
 
