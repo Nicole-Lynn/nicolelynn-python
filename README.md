@@ -5,7 +5,7 @@ This repository contains my solutions to the problem sets assigned in the online
 Each problem set covers various concepts and topics in Python and comprises a series of programming assignments that provided me with the opportunity to reinforce and showcase my comprehension of the various concepts and techniques.
 
 ## Course Information
-CS50's Introduction to Programming with Python is an online course that covers fundamental concepts of computer programming using the Python programming language. For more information about the course, please refer to the [CS50 website](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python).
+CS50's Introduction to Programming with Python is an online course that covers fundamental concepts of computer programming using the Python programming language. For more information about the course, please refer to the [course website](https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python).
 
 ## Problem Sets
 The problem sets are based on the topics covered each week. Below is the list of the problem sets along with the corresponding topics:
