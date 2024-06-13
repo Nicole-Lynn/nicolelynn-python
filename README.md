@@ -1,5 +1,5 @@
 # Introduction to Programming with Python
-This repository contains my solutions to the problem sets assigned in the online course, CS50's Introduction to Programming with Python offered on edX.  
+This repository contains my solutions to the problem sets assigned  and the final project in the online course, CS50's Introduction to Programming with Python offered on edX.  
 
 ## Introduction
 Each problem set covers various concepts and topics in Python and comprises a series of programming assignments that provided me with the opportunity to reinforce and showcase my comprehension of the various concepts and techniques.
@@ -19,7 +19,7 @@ The problem sets are based on the topics covered each week. Below is the list of
 - Week 7: [Regular Expressions](week7)
 - Week 8: [Object Oriented Programming](week8)
 
-##Final Project
+## Final Project
 The last part of the course is the final project:
 - Final Project: [Project](project)
 
