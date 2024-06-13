@@ -19,5 +19,9 @@ The problem sets are based on the topics covered each week. Below is the list of
 - Week 7: [Regular Expressions](week7)
 - Week 8: [Object Oriented Programming](week8)
 
+##Final Project
+The last part of the course is the final project:
+- Final Project: [Project](project)
+
 
 
